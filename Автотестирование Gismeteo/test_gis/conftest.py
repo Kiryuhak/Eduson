@@ -17,12 +17,14 @@ def browser():
 
 @pytest.fixture(scope="function")
 def set_city_str(browser):
+    """Фикстура для поиска города Стерлитамака."""
     pages_main = PagesGis(browser, "https://www.gismeteo.ru/")
     pages_main.open()
     pages_main.search("Стерлитамак")
 
 @pytest.fixture(scope="function")
 def set_city_ufa(browser):
+    """Фикстура для поиска города Уфа."""
     pages_main = PagesGis(browser, "https://www.gismeteo.ru/")
     pages_main.open()
     pages_main.search("Уфа")

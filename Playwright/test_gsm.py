@@ -1,5 +1,6 @@
 from playwright.sync_api import Page
 
+
 def test_page(playwright, page: Page):
     # Запуск браузера
     chromium = playwright.chromium
@@ -10,8 +11,8 @@ def test_page(playwright, page: Page):
     page.goto("https://str.gsm.shop/")
 
     # Ввод логина и пароля
-    page.locator("#login_form-login").fill('admin@admin.com')
-    page.locator("#login_form-password").fill('admin')
+    page.locator("#login_form-login").fill('admin@admin.com')  # Логин
+    page.locator("#login_form-password").fill('admin')  # Пароль
     page.click('input[type=submit]')
 
     # Проверка успешной авторизации

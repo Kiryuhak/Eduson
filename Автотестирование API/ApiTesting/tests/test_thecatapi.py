@@ -4,7 +4,7 @@ from random import randrange
 
 from config import url
 from checkers.checkers import check_not_empty, check_status_200, check_status_201, check_status_404, check_schema
-#from data.validate import validate_json
+from validate import validate_json
 from steps.vote import Vote
 
 

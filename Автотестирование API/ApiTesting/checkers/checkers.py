@@ -2,8 +2,8 @@ import allure
 from requests import Response
 from datetime import datetime
 
-from data.images import *
-from data.validate import *
+from images import *
+from validate import *
 
 
 @allure.step("Check url in response")

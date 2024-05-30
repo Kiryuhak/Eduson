@@ -1,0 +1,12 @@
+{
+    "type" : "object",
+    "properties" : {
+        "id" : {"type" : "number"},
+        "image_id" : {"type" : "string"},
+		"sub_id" : {"anyOf":[{"type" : "null"}, {"type" : "string"}]},
+		"value" : {"type" : "number"},
+        "country_code" : {"anyOf":[{"type" : "null"}, {"type" : "string"}]},
+        "created_at" : {"type" : "string"}
+    },
+    "required": ["id", "image_id", "sub_id", "value", "country_code", "created_at"]
+}

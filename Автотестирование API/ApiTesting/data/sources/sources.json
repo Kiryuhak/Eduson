@@ -1,0 +1,188 @@
+[
+	{
+	  "id": 1,
+	  "name": "Wikipedia",
+	  "url": "https://en.wikipedia.org",
+	  "breed_id": null
+	},
+	{
+	  "id": 2,
+	  "name": "VCA Hospitals",
+	  "url": "https://vcahospitals.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 3,
+	  "name": "VetStreet",
+	  "url": "http://www.vetstreet.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 4,
+	  "name": "PetHelpful",
+	  "url": "https://pethelpful.com/",
+	  "breed_id": null
+	},
+	{
+	  "id": 5,
+	  "name": "Bengal cat club",
+	  "url": "https://bengalcatclub.com",
+	  "breed_id": "beng"
+	},
+	{
+	  "id": 6,
+	  "name": "Pet MD",
+	  "url": "https://www.petmd.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 7,
+	  "name": "PETAZI",
+	  "url": "https://petazi.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 8,
+	  "name": "CatTime",
+	  "url": "https://cattime.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 10,
+	  "name": "The Governing Council of the Cat Fancy",
+	  "url": "https://www.gccfcats.org",
+	  "breed_id": null
+	},
+	{
+	  "id": 12,
+	  "name": "Hillspet",
+	  "url": "https://www.hillspet.com.au",
+	  "breed_id": null
+	},
+	{
+	  "id": 13,
+	  "name": "VetWest",
+	  "url": "https://www.vetwest.com.au/",
+	  "breed_id": null
+	},
+	{
+	  "id": 14,
+	  "name": "RoyalCanin",
+	  "url": "http://healthypets.royalcanin.com.au/",
+	  "breed_id": null
+	},
+	{
+	  "id": 15,
+	  "name": "WWW All About Cats",
+	  "url": "https://www.wwwallaboutcats.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 16,
+	  "name": "Cat Breed Selector",
+	  "url": "https://www.catbreedselector.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 17,
+	  "name": "VioVet",
+	  "url": "https://www.viovet.co.uk",
+	  "breed_id": null
+	},
+	{
+	  "id": 18,
+	  "name": "PetGuide",
+	  "url": "https://www.petguide.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 19,
+	  "name": "Petful",
+	  "url": "https://www.petful.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 20,
+	  "name": "Cat Breeds Junction",
+	  "url": "http://www.catbreedsjunction.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 21,
+	  "name": "Cat-Breeds.com",
+	  "url": "https://www.cat-breeds.com/",
+	  "breed_id": null
+	},
+	{
+	  "id": 22,
+	  "name": "VetWest",
+	  "url": "https://www.vetwest.com.au",
+	  "breed_id": null
+	},
+	{
+	  "id": 23,
+	  "name": "Cat Fancier Association",
+	  "url": "http://cfa.org",
+	  "breed_id": null
+	},
+	{
+	  "id": 24,
+	  "name": "The International Cat Association",
+	  "url": "https://www.tica.org",
+	  "breed_id": null
+	},
+	{
+	  "id": 25,
+	  "name": "CatConcerns",
+	  "url": "http://www.catconcerns.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 26,
+	  "name": "International Toybob Cat Club",
+	  "url": "https://toybob.org/",
+	  "breed_id": "tbob"
+	},
+	{
+	  "id": 27,
+	  "name": "The Happy Cat Site",
+	  "url": "https://www.thehappycatsite.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 28,
+	  "name": "Catappy",
+	  "url": "https://catappy.com",
+	  "breed_id": null
+	},
+	{
+	  "id": 29,
+	  "name": "The Dutiful Cat",
+	  "url": "https://thedutifulcat.com/",
+	  "breed_id": null
+	},
+	{
+	  "id": 30,
+	  "name": "KittyWise",
+	  "url": "https://kittywise.com/",
+	  "breed_id": null
+	},
+	{
+	  "id": 31,
+	  "name": "Oriental Cat Association",
+	  "url": "http://orientalcatassociation.org/the-oriental-shorthair/",
+	  "breed_id": "orie"
+	},
+	{
+	  "id": 32,
+	  "name": "Savannah Cat Association",
+	  "url": "https://savannahcatassociation.org/",
+	  "breed_id": "sava"
+	},
+	{
+	  "id": 33,
+	  "name": "Somali Cat Club",
+	  "url": "http://www.somalicatclub.com",
+	  "breed_id": "soma"
+	}
+  ]
